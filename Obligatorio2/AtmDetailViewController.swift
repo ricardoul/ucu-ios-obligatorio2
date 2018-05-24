@@ -48,7 +48,7 @@ class AtmDetailViewController: UIViewController {
     }
 
     override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning().
+        super.didReceiveMemoryWarning();
     }
     
 
